@@ -1,0 +1,10 @@
+Основной текст: самые популярные онлайн игры01.docx
+Визуальный образец: https://twonmedia.ru
+Уточнение Counter-Strike: https://www.counter-strike.net/cs2
+Дата выхода CS2: https://store.steampowered.com/news/posts/?appids=730&enddate=1695869144&feed=steam_community_announcements
+Minecraft: https://www.minecraft.net/en-us/about-minecraft
+
+Иллюстрации с официальных страниц Steam; права сохраняются за правообладателями.
+dota: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998
+cs: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637
+apex: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/60fcaedb88ccf94df30281533d828b86c6ffb9b6/header_alt_assets_5.jpg?t=1790164440
